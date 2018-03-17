@@ -1,0 +1,11 @@
+Bot to manage a server remotely through Telegram messages
+- Compile
+  - `mvn clean install`
+- Execute
+  - `java -jar assistant.jar`
+  	- Put config files in the same folder
+  	- Daemon script WIP
+- Features
+  - IP checker
+  - List
+  - Execute commands (WIP)  	
